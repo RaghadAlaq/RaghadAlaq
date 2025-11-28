@@ -1,56 +1,35 @@
-<h1 align="left">Hi, I'm Raghad</h1>
-
-I work with data, dashboards, and decision-focused analysis.  
-Skilled in turning raw datasets into models and visuals that make sense.
-
-## Skills
-
-<div style="display: flex; gap: 40px; align-items: center; flex-wrap: wrap;">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-  <div><b>Python</b></div>
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-  <div><b>SQL</b></div>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Microsoft%20Excel/Flat/microsoft_excel_flat.svg" width="55"/>
-  <div><b>Excel</b></div>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/Flat/bar_chart_flat.svg" width="55"/>
-  <div><b>Power BI</b></div>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/Flat/bar_chart_flat.svg" width="55"/>
-  <div><b>Tableau</b></div>
-</div>
-
-</div>
-
-## Projects
-
-### Saudi Fashion Analytics  
-Python-generated synthetic dataset modeling daily fashion demand across 12 Saudi cities.  
-Structured fact table + city dimension, weather and event signals, BI-ready.
-
-### Healthcare Data Mining  
-Analysis of 55K+ patient records in RapidMiner revealing medical cost drivers,  
-admission patterns, and diagnostic trends.
-
-### British Airways Review Dashboard  
-A clean Tableau dashboard exploring customer reviews with dynamic filters  
-and clear views of rating trends, countries, and aircraft performance.
-
-## Currently Improving
-SQL structure · BI layout clarity · Python automation for data prep
-
-## Contact
-**LinkedIn:** your-link  
-**Email:** your-email
+@@ -0,0 +1,34 @@
+## Hi there 👋<h3 align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=24&duration=4000&pause=1000&color=FBD6E3&center=true&vCenter=true&width=900&height=60&lines=These+are+the+tools+I+use+to+turn+data+into+stories.">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="50" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/RAPIDMINER-000000?style=for-the-badge&logo=rainmeter&logoColor=E0BBFF" />
+  <img src="https://img.shields.io/badge/EXCEL-000000?style=for-the-badge&logo=microsoft-excel&logoColor=A0FFA0" />
+  <img src="https://img.shields.io/badge/TABLEAU-000000?style=for-the-badge&logo=tableau&logoColor=FCE5FF" />
+</p>
+<details>
+<summary><b>✨ Data Analysis</b></summary>
+<br>
+I explore datasets, clean them, shape them, and uncover the narrative hidden inside.  
+Patterns, anomalies, relationships — I enjoy the process of discovery.
+</details>
+<details>
+<summary><b>✨ Creative Tech Projects</b></summary>
+<br>
+I mix analytical work with aesthetic choices: dashboards, interactive visualizations,  
+and anything that feels like data meeting design.
+</details>
+<details>
+<summary><b>✨ Learning & Building</b></summary>
+<br>
+Python scripts, small web tools in HTML, data models, and process analysis.  
+Always adding something new to my toolkit.
+</details>
